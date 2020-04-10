@@ -1,0 +1,9 @@
+PDFs/
+.idea
+test
+table/
+text/
+temp/
+__pycache__/
+*.log
+venv/
